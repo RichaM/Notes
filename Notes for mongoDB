@@ -1,0 +1,9 @@
+Specify path of mongodb on MAC
+Default path of mongodb download is /usr/local/var/mongodb
+
+ --> mongod --dbpath  /usr/local/var/mongodb
+ 
+start mongodb run below command
+mongod
+
+Mongodb compass for UI
